@@ -1,0 +1,57 @@
+@import url('https://googleapis.com');
+
+body {
+    font-family: 'Jura', Trebuchet MS;
+    margin: 0;
+    background-color: #1a1a2e; 
+    color: #ffffff;            
+    text-align: center;        
+    padding: 20px;
+}
+header {
+    background-color: #162447;
+    padding: 15px;
+    border-radius: 10px;       
+}
+h1 {
+    color: #e43f5a;           
+}
+nav a {
+    color: #00fff5;           
+    text-decoration: none;    
+    font-weight: bold;
+    margin: 5px 10px;
+}
+nav a:hover {
+    color: #e43f5a;            
+}
+main {
+    background-color: #1f4068;
+    padding: 30px;
+    border-radius: 10px;
+}
+img {
+    border: 4px solid #e43f5a; 
+    border-radius: 8px;
+    box-shadow: 0 0 15px #e43f5a; 
+}
+main a {
+    background-color: #e43f5a; 
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #00fff5; 
+    color: #1a1a2e;
+}
+footer {
+    color: #888888;            
+    font-size: 14px;
+    margin-top: 30px;
+}
+/*Зроби цей сайт красивим 😉*/
